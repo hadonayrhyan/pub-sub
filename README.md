@@ -1,6 +1,6 @@
 Atividade Processual: ***Sistemas Computacionais Distribuídos e Aplicações em Nuvens***
 Professora: ***Ana Paula***
-Alunos: ***Hadonay Rhyan e Kauã***
+Alunos: ***Hadonay Rhyan e Kauã dos Santos***
 
 ***Objetivo***
 
